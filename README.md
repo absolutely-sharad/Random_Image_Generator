@@ -80,7 +80,6 @@ export default App;
 
 #### Technologies Used
 - React
-- jsPDF
 - CSS Modules
 
 ### Author
